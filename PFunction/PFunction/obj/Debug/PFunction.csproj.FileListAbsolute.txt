@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\PFunction\PFunction\bin\Debug\PFunction.dll
+C:\Users\Пользователь\source\repos\PFunction\PFunction\bin\Debug\PFunction.pdb
+C:\Users\Пользователь\source\repos\PFunction\PFunction\obj\Debug\PFunction.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\PFunction\PFunction\obj\Debug\PFunction.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\PFunction\PFunction\obj\Debug\PFunction.dll
+C:\Users\Пользователь\source\repos\PFunction\PFunction\obj\Debug\PFunction.pdb
